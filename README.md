@@ -31,3 +31,6 @@ The Hybrid Diode which I actually created myself supports common SOD-123 and Thr
 PCB Render
 <img width="1153" height="1298" alt="Screenshot_20260829_163910" src="https://github.com/user-attachments/assets/be071666-6e69-4d81-a21d-435937168825" />
 
+
+Case Assembly
+<img width="1001" height="1379" alt="Screenshot_20260829_172108" src="https://github.com/user-attachments/assets/07b6df96-0c6a-49cf-98ac-8012022a19ae" />
