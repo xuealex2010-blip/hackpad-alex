@@ -11,8 +11,14 @@ Schematic
 
 
 PCB (GND Fill Hidden)
-
+<img width="968" height="1241" alt="Screenshot_20260829_163841" src="https://github.com/user-attachments/assets/0fa8d44c-a43d-445e-b478-3140d686845b" />
 
 
 PCB Render
 <img width="1153" height="1298" alt="Screenshot_20260829_163910" src="https://github.com/user-attachments/assets/be071666-6e69-4d81-a21d-435937168825" />
+
+
+PCB Viewer
+Powered by KiCanvas
+
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fxuealex2010-blip%2Fhackpad-alex%2Ftree%2Fmain%2FPCB
