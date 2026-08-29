@@ -11,4 +11,8 @@ Schematic
 
 
 PCB (GND Fill Hidden)
-<img width="1149" height="1459" alt="Screenshot_20260824_121857" src="https://github.com/user-attachments/assets/b29e8295-46d3-47a9-92ec-f144e074457c" />
+
+
+
+PCB Render
+<img width="1153" height="1298" alt="Screenshot_20260829_163910" src="https://github.com/user-attachments/assets/be071666-6e69-4d81-a21d-435937168825" />
