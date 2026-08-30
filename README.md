@@ -48,3 +48,16 @@ The case is also designed with a slight tilt to make the front lip lower to be m
 The advantage of 3D printing also means that if I want to use different keyswitches, the complex PCB can remain the same, the case can be further customized for that setup.
 
 <img width="1001" height="1379" alt="Screenshot_20260829_172108" src="https://github.com/user-attachments/assets/07b6df96-0c6a-49cf-98ac-8012022a19ae" />
+
+## Keymap
+
+The layout for the Cadpad follows the common number arrangement of calculators, helping muscle memory carry over.
+
+The `.` and `Enter` keys also utilize QMK's Tap Dance feature.
+
+`.` When double clicked will register a backspace input, this was chosen since a double decimal is not used.
+
+`Enter` acts as the layer modifier when held, accessing the extra function buttons set for macros, as well as common volume controls with the encoder.
+
+<img width="397" height="488" alt="Screenshot_20260830_122651" src="https://github.com/user-attachments/assets/1c0909b7-0a10-4dba-9d4b-b29cdf691c91" />
+
