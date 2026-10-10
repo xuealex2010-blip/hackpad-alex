@@ -2,7 +2,8 @@
 
 A Numberpad with navigation controls with a secondary macro layer. Made to improve my CAD experience.
 
-<img width="1403" height="1241" alt="Screenshot_20260824_121713" src="https://github.com/user-attachments/assets/55af7a9f-fbdc-472d-863b-1474fc101c6b" />
+<img width="2248" height="2293" alt="IMG_3999" src="https://github.com/user-attachments/assets/078c6be0-8118-4c54-a647-45db7687a946" />
+
 
 ## Navigation Knob
 
@@ -11,6 +12,13 @@ Featuring navigation accessibility especially for when entering numbers.
 The arrow key outputs give a tactile way to move around the numbers to correct mistakes on the same input device. The tab button also allows for quick navigation between text fields.
 
 <img width="2588" height="2304" alt="Screenshot_20260829_170127" src="https://github.com/user-attachments/assets/fb54316c-bc99-4d84-b504-3e9d8c447bc7" />
+
+
+## See it in Action!
+
+Here's a short demo video of some of the features, such as the Tap Dance, and Navigation Knob
+[Video](https://www.youtube.com/watch?v=yww2Ed7qnjQ)
+
 
 ## PCB and Schematic Design
 
