@@ -17,7 +17,9 @@ The arrow key outputs give a tactile way to move around the numbers to correct m
 ## See it in Action!
 
 Here's a short demo video of some of the features, such as the Tap Dance, and Navigation Knob
-[Video](https://www.youtube.com/watch?v=yww2Ed7qnjQ){:target="_blank" rel="noopener"}
+[Video](https://www.youtube.com/watch?v=yww2Ed7qnjQ)
+<img width="2057" height="1170" alt="IMG_4002" src="https://github.com/user-attachments/assets/0fc7b5c6-44b0-4545-9f61-fb30159fdc55" />
+
 
 
 ## PCB and Schematic Design
